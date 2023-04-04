@@ -1,0 +1,13 @@
+C:\Users\Mason\Desktop\At home programs\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\Mason\Desktop\At home programs\Encryption\bin\Debug\Encryption.exe
+C:\Users\Mason\Desktop\At home programs\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Mason\Desktop\At home programs\Encryption\bin\Debug\Encryption.xml
+C:\Users\Mason\Desktop\At home programs\Encryption\obj\Debug\Encryption.vbproj.AssemblyReference.cache
+C:\Users\Mason\Desktop\At home programs\Encryption\obj\Debug\Encryption.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Mason\Desktop\At home programs\Encryption\obj\Debug\Encryption.Form1.resources
+C:\Users\Mason\Desktop\At home programs\Encryption\obj\Debug\Encryption.Resources.resources
+C:\Users\Mason\Desktop\At home programs\Encryption\obj\Debug\Encryption.vbproj.GenerateResource.cache
+C:\Users\Mason\Desktop\At home programs\Encryption\obj\Debug\Encryption.vbproj.CoreCompileInputs.cache
+C:\Users\Mason\Desktop\At home programs\Encryption\obj\Debug\Encryption.exe
+C:\Users\Mason\Desktop\At home programs\Encryption\obj\Debug\Encryption.xml
+C:\Users\Mason\Desktop\At home programs\Encryption\obj\Debug\Encryption.pdb
